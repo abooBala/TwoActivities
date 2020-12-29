@@ -4,5 +4,6 @@
     <string name="text_header">Message Received</string>
     <string name="editText_main">Enter Your Message Here</string>
     <string name="button_second">Reply</string>
-    <string name="editText_second">Enter your reply here...</string>
+    <string name="editText_second">Enter your reply here(&#8230;)</string>
+    <string name="text_header_reply">Reply Received</string>
 </resources>
